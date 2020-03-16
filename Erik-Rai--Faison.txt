@@ -19,7 +19,8 @@ https://codepen.io/cloudgang/details/GRJdZye
   The box model is how a webpage is built. Its all the layers of code that make the page.
 
 
+[x] Research and set up a Graphical User Interface (GUI) Git console. 
+
 TO DO:
-[ ] Research and set up a Graphical User Interface (GUI) Git console. 
 [ ] Research and setup SSH keys with GitHub, so that you do not need to input 
 your username/password each time you push. 
